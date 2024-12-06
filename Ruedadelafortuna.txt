@@ -1,0 +1,4 @@
+La rueda de la fortuna  tiene 12 segmentos con diferentes valores cada uno.
+El Usuario gira la rueda y esta se detendrá en un segmento, en el cual podrá ganar puntos, 
+perderlos o perder un turno.
+El objetivo es sumar la mayor cantidad de puntos que luego se traduciran en credito para el usario.
