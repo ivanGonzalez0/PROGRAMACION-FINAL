@@ -1,0 +1,4 @@
+consiste en  que un  único jugador realizar una apuesta primero y luego hacer girar un carrete 
+con símbolos ordenados al azar. 
+En este caso son 3 carretes, cada carrete se detiene formando una combinación aleatoria
+ y en caso de coincidir el jugador gana
