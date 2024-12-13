@@ -1,0 +1,5 @@
+La ruleta americana tiene 37 números, del 1 al 36, más un cero
+El crupier gira la bola en el cilindro de la ruleta y esta se detiene en una casilla. 
+La casilla en la que cae la bola es el número ganador. 
+El crupier anuncia el número ganador y paga las apuestas que han ganado. 
+Las apuestas se pueden hacer a un número específico, a grupos de números, a colores, a números pares o impares, y a altos o bajos.
